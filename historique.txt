@@ -1,0 +1,13 @@
+HISTORIQUE DES PATIENTS
+========================
+
+Ticket     : #001
+ID         : 252277
+Nom        : papa tigrine
+Age        : 56 ans
+Arrivee    : 01:51:49
+Priorite   : VERT  (Non urgent)
+Etat       : 
+Statut     : En consultation
+Medecin    : Dr. warda
+---

@@ -1,0 +1,23 @@
+==================================================
+       RAPPORT JOURNALIER - 04/05/2026
+==================================================
+
+  Total patients        : 1
+  Discharges            : 0
+  Hospitalises          : 0
+  Referes               : 0
+  En attente (actuel)   : 0
+  En observation        : 0
+
+--------------------------------------------------
+  MEDECINS
+--------------------------------------------------
+  Dr. warda                : 0 patients traites
+  Dr. yasmine              : 0 patients traites
+  Dr. yacine               : 0 patients traites
+  Dr. sirine               : 0 patients traites
+  Dr. yarine               : 0 patients traites
+
+==================================================
+  Mode catastrophe : Non
+==================================================
